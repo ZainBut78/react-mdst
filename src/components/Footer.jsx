@@ -11,9 +11,9 @@ const Footer = () => {
                     </button>
                 </div>
                 <div className='flex px-15 mt-2 gap-2'>
-                    <img className='h-5 w-5' src="/src/images/facebook.png" alt="facebook" />
-                    <img className='h-5 w-5' src="/src/images/instagram.png" alt="insta" />
-                    <img className='h-5 w-5' src="/src/images/tik-tok.png" alt="tiktok" />
+                    <img className='h-5 w-5' src="images/facebook.png" alt="facebook" />
+                    <img className='h-5 w-5' src="images/instagram.png" alt="insta" />
+                    <img className='h-5 w-5' src="images/tik-tok.png" alt="tiktok" />
                 </div>
             </div>
             <hr className='m-10' />

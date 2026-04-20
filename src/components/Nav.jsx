@@ -9,7 +9,7 @@ const Nav = () => {
                 <h1 className='text-xl font-semibold'>COMMING SOON</h1>
             </div>
             <div className='p-4 flex items-center justify-center'>
-                <img className='h-[100px]' src="./src/images/logo.webp" alt="logo" />
+                <img className='h-[100px]' src="images/logo.webp" alt="logo" />
 
             </div>
             <div className='flex items-center justify-center gap-3 text-2xl'>
